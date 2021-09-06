@@ -13,13 +13,20 @@
 
 - 🤝 I’m looking for help with **Iot projects and hardware**
 
-- 👨‍💻 I am a huge sucker for beautiful art [Designs in PS,AI and figma.](Designs in PS,AI and figma.)
+- 👨‍💻 I am a huge sucker for beautiful art. **Designs in PS🖼,AI🎨 and figma**
 
 - 💬 Ask me about **Flutter, Django, Flask and telegram bots**
 
 - 📫 How to reach me **mahadevananair@gmail.com**
 
+- 🐱‍💻 Experienced in **Windows(cmd,PS)⏹ and Linux Terminal 🐧** . 
+  (Don't ask me which one I preffer #don't want to start a war 😉) 
+
 - ⚡ Fun fact **I have a habit of writing funny commit messages 🤣**
+
+- ✨BONUS POINT: **If you have worked with me , I promise you would not be dissapointed in the product and memories we made 💖😊** 
+
+- ✨One more BONUS 😅: **I am easy to talk to and vibe with 😉😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
