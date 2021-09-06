@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahadevan A Nair</h1>
 <h3 align="center">A passionate engineering student from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadevananair1&label=Profile%20views&color=0e75b6&style=flat" alt="mahadevananair1" /> </p>
+
 
 
 
